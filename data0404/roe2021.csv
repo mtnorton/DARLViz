@@ -1,0 +1,84 @@
+"Mitigation category","Mitigation classification","Mitigation measure...3","Mitigation measure...4","Units","region_ar6_dev","Global"
+"Forests & other ecosystems","Forests
+& other
+ecosystems
+- Protect","reduce deforestation","Cost-effective","MtCO2/yr","defors_feas",1791.5961
+"Forests & other ecosystems","Forests
+& other
+ecosystems
+- Protect","reduce deforestation","Cost-effective","MtCO2/yr","deforb_feas",5282.8106
+"Forests & other ecosystems","Forests
+& other
+ecosystems
+- Restore","afforestation and reforestation","Cost-effective","MtCO2/yr","ars_feas",974.9168
+"Forests & other ecosystems","Forests
+& other
+ecosystems
+- Restore","afforestation and reforestation","Cost-effective","MtCO2/yr","refor_feas",1110.3316
+"Forests & other ecosystems","Forests
+& other
+ecosystems
+- Manage","forest management","Cost-effective","MtCO2/yr","formgmts_feas",874.107
+"Forests & other ecosystems","Forests
+& other
+ecosystems
+- Manage","forest management","Cost-effective","MtCO2/yr","formgmtg_feas",931.8786
+"Forests & other ecosystems","Forests
+& other
+ecosystems
+- Manage","grassland fire mgmt","Cost-effective","MtCO2e/yr","gfire_feas",31.287
+"Forests & other ecosystems","Forests
+& other
+ecosystems
+- Protect","reduce peatland degradation","Cost-effective","MtCO2e/yr","peat_feas",205.4102
+"Forests & other ecosystems","Forests
+& other
+ecosystems
+- Restore","peatland restoration","Cost-effective","MtCO2e/yr","peatrest_feas",593.9006
+"Forests & other ecosystems","Forests
+& other
+ecosystems
+- Protect","reduce mangrove conversion","Cost-effective","MtCO2e/yr","mangrove_feas",65.9791
+"Forests & other ecosystems","Forests
+& other
+ecosystems
+- Restore","mangrove restoration","Cost-effective","MtCO2e/yr","mangrest_feas",5.7165
+"Agriculture","Agriculture
+- Reduce
+emissions","enteric fermentation","Cost-effective","MtCO2e/yr","enteric_feas",98.2489
+"Agriculture","Agriculture
+- Reduce
+emissions","manure management","Cost-effective","MtCO2e/yr","manure_feas",91.8052
+"Agriculture","Agriculture
+- Reduce
+emissions","rice cultivation","Cost-effective","MtCO2e/yr","riceg_feas",158.994
+"Agriculture","Agriculture
+- Reduce
+emissions","rice cultivation","Cost-effective","MtCO2e/yr","riceb_feas",182.7154
+"Agriculture","Agriculture
+- Reduce
+emissions","nutrient management","Cost-effective","MtCO2e/yr","nutrientg_feas",408.8544
+"Agriculture","Agriculture
+- Reduce
+emissions","nutrient management","Cost-effective","MtCO2e/yr","nutrientb_feas",31.2344
+"Agriculture","Agriculture
+-
+Sequester
+carbon","soil carbon croplands","Cost-effective","MtCO2/yr","scscrop_feas",922.1268
+"Agriculture","Agriculture
+-
+Sequester
+carbon","soil carbon grasslands","Cost-effective","MtCO2/yr","scsgrass_feas",892.5227
+"Agriculture","Agriculture
+-
+Sequester
+carbon","agroforestry","Cost-effective","MtCO2/yr","agrofor_feas",1121.1139
+"Agriculture","Agriculture
+-
+Sequester
+carbon","biochar","Cost-effective","MtCO2e/yr","biochar_feas",1815.0671
+"Bioenergy","Bioenergy
+- BECCS","bioenergy - BECCS","Cost-effective","MtCO2/yr","beccs_feas",499.2012
+"Demand-side","Demand-side","food waste","Cost-effective","MtCO2e/yr","foodw_feas",452.4809
+"Demand-side","Demand-side","healthy diets","Cost-effective","MtCO2e/yr","diet_feas",1433.5036
+"Demand-side","Demand-side","clean cookstoves","Cost-effective","MtCO2e/yr","ccook_feas",105.612

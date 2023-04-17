@@ -1,0 +1,109 @@
+Item,Income group,Year,value,class
+Crop Residues,High income,1990,0.042645923,Farm-gate emissions
+Crop Residues,Middle income,2020,0.16689078,Farm-gate emissions
+Crop Residues,Low income,1990,0.003065519,Farm-gate emissions
+Crop Residues,Middle income,1990,0.108463025,Farm-gate emissions
+Crop Residues,Low income,2020,0.007357089,Farm-gate emissions
+Crop Residues,High income,2020,0.050667761,Farm-gate emissions
+Drained organic soils,Middle income,1990,0.996628612,Farm-gate emissions
+Drained organic soils,High income,2020,0.631785292,Farm-gate emissions
+Drained organic soils,Middle income,2020,1.106757893,Farm-gate emissions
+Drained organic soils,Low income,1990,0.077526485,Farm-gate emissions
+Drained organic soils,Low income,2020,0.098348606,Farm-gate emissions
+Drained organic soils,High income,1990,0.576583968,Farm-gate emissions
+Enteric Fermentation,Low income,2020,0.364779641,Farm-gate emissions
+Enteric Fermentation,High income,1990,0.63061976,Farm-gate emissions
+Enteric Fermentation,Low income,1990,0.121304367,Farm-gate emissions
+Enteric Fermentation,Middle income,2020,2.116691078,Farm-gate emissions
+Enteric Fermentation,High income,2020,0.528021771,Farm-gate emissions
+Enteric Fermentation,Middle income,1990,1.862872919,Farm-gate emissions
+Manure,Low income,2020,0.186043588,Farm-gate emissions
+Manure,High income,2020,0.313877253,Farm-gate emissions
+Manure,Middle income,1990,0.782817428,Farm-gate emissions
+Manure,Middle income,2020,0.970683224,Farm-gate emissions
+Manure,High income,1990,0.345812593,Farm-gate emissions
+Manure,Low income,1990,0.061927271,Farm-gate emissions
+Rice Cultivation,High income,1990,0.040397403,Farm-gate emissions
+Rice Cultivation,Middle income,2020,0.776410918,Farm-gate emissions
+Rice Cultivation,Low income,2020,0.024969214,Farm-gate emissions
+Rice Cultivation,Middle income,1990,0.731216805,Farm-gate emissions
+Rice Cultivation,Low income,1990,0.013233556,Farm-gate emissions
+Rice Cultivation,High income,2020,0.033123737,Farm-gate emissions
+Savanna fires,Middle income,1990,0.099139756,Farm-gate emissions
+Savanna fires,Low income,2020,0.100857265,Farm-gate emissions
+Savanna fires,High income,2020,0.015643379,Farm-gate emissions
+Savanna fires,Low income,1990,0.085517571,Farm-gate emissions
+Savanna fires,High income,1990,0.056707455,Farm-gate emissions
+Savanna fires,Middle income,2020,0.092511852,Farm-gate emissions
+Synthetic Fertilizers,Low income,2020,0.006951424,Farm-gate emissions
+Synthetic Fertilizers,Low income,1990,0.005834791,Farm-gate emissions
+Synthetic Fertilizers,High income,1990,0.145070522,Farm-gate emissions
+Synthetic Fertilizers,High income,2020,0.157442023,Farm-gate emissions
+Synthetic Fertilizers,Middle income,1990,0.37836273,Farm-gate emissions
+Synthetic Fertilizers,Middle income,2020,0.602751245,Farm-gate emissions
+Burning biomass,High income,2020,0.023755534,Land-use change
+Burning biomass,High income,1990,0.015298369,Land-use change
+Burning biomass,Low income,2020,0.09946354,Land-use change
+Burning biomass,Middle income,2020,0.175971571,Land-use change
+Burning biomass,Low income,1990,0.097037796,Land-use change
+Burning biomass,Middle income,1990,0.387825809,Land-use change
+Net Forest conversion,Middle income,2020,1.851209288,Land-use change
+Net Forest conversion,Low income,2020,0.845734013,Land-use change
+Net Forest conversion,Middle income,1990,3.234461144,Land-use change
+Net Forest conversion,Low income,1990,0.576440636,Land-use change
+Net Forest conversion,High income,1990,0.291771314,Land-use change
+Net Forest conversion,High income,2020,0.205469634,Land-use change
+Fertilizers Manufacturing,Low income,1990,0.000681553,Pre-and post-production
+Fertilizers Manufacturing,Low income,2020,0.00025961,Pre-and post-production
+Fertilizers Manufacturing,Middle income,1990,0.158297139,Pre-and post-production
+Fertilizers Manufacturing,Middle income,2020,0.396254175,Pre-and post-production
+Food Household Consumption,Low income,1990,0.001254622,Pre-and post-production
+Food Household Consumption,Low income,2020,0.005801545,Pre-and post-production
+Food Household Consumption,Middle income,1990,0.503067308,Pre-and post-production
+Food Household Consumption,Middle income,2020,1.483678645,Pre-and post-production
+Food Packaging,Low income,1990,0.00160132,Pre-and post-production
+Food Packaging,Middle income,1990,0.064856117,Pre-and post-production
+Food Packaging,Low income,2020,0.000973404,Pre-and post-production
+Food Packaging,Middle income,2020,0.27701981,Pre-and post-production
+Food Processing,Low income,1990,0.015037949,Pre-and post-production
+Food Processing,Low income,2020,0.004540175,Pre-and post-production
+Food Processing,Middle income,1990,0.185714529,Pre-and post-production
+Food Processing,Middle income,2020,0.177873762,Pre-and post-production
+Food Retail,Low income,1990,0.000240649,Pre-and post-production
+Food Retail,Low income,2020,0.005517343,Pre-and post-production
+Food Retail,Middle income,1990,0.019175122,Pre-and post-production
+Food Retail,Middle income,2020,0.302561627,Pre-and post-production
+Food systems waste disposal,Low income,1990,0.035171726,Pre-and post-production
+Food systems waste disposal,Low income,2020,0.06343344,Pre-and post-production
+Food systems waste disposal,Middle income,2020,1.204459828,Pre-and post-production
+Food systems waste disposal,Middle income,1990,0.900820922,Pre-and post-production
+Food Transport,Low income,1990,0.002411787,Pre-and post-production
+Food Transport,Low income,2020,0.005711696,Pre-and post-production
+Food Transport,Middle income,1990,0.085280114,Pre-and post-production
+Food Transport,Middle income,2020,0.295548069,Pre-and post-production
+Fertilizers Manufacturing,High income,1990,0.047082553,Pre-and post-production
+Fertilizers Manufacturing,High income,2020,0.123965523,Pre-and post-production
+Food Household Consumption,High income,1990,0.171561007,Pre-and post-production
+Food Household Consumption,High income,2020,0.23311377,Pre-and post-production
+Food Packaging,High income,2020,0.127876324,Pre-and post-production
+Food Packaging,High income,1990,0.126303942,Pre-and post-production
+Food Processing,High income,1990,0.212529166,Pre-and post-production
+Food Processing,High income,2020,0.289678581,Pre-and post-production
+Food Retail,High income,1990,0.133152963,Pre-and post-production
+Food Retail,High income,2020,0.59894595,Pre-and post-production
+Food systems waste disposal,High income,1990,0.190653183,Pre-and post-production
+Food systems waste disposal,High income,2020,0.206516497,Pre-and post-production
+Food Transport,High income,1990,0.177578536,Pre-and post-production
+Food Transport,High income,2020,0.225820373,Pre-and post-production
+On-farm electricity use,High income,1990,0.0590696,Pre-and post-production
+On-farm electricity use,High income,1990,0.0590696,Pre-and post-production
+On-farm electricity use,High income,2020,0.078808958,Pre-and post-production
+On-farm electricity use,High income,2020,0.078808958,Pre-and post-production
+On-farm electricity use,Middle income,1990,0.14679255,Pre-and post-production
+On-farm electricity use,Middle income,1990,0.14679255,Pre-and post-production
+On-farm electricity use,Middle income,2020,0.52590156,Pre-and post-production
+On-farm electricity use,Middle income,2020,0.52590156,Pre-and post-production
+On-farm electricity use,Low income,2020,0.000636636,Pre-and post-production
+On-farm electricity use,Low income,2020,0.000636636,Pre-and post-production
+On-farm electricity use,Low income,1990,0.000393507,Pre-and post-production
+On-farm electricity use,Low income,1990,0.000393507,Pre-and post-production
