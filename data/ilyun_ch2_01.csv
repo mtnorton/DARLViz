@@ -1,0 +1,109 @@
+"","Item","Income group","Year","value","class"
+"1","Crop Residues","High income",1990,0.042645923,"Farm-gate emissions"
+"2","Crop Residues","Middle income",2020,0.16689078,"Farm-gate emissions"
+"3","Crop Residues","Low income",1990,0.003065519,"Farm-gate emissions"
+"4","Crop Residues","Middle income",1990,0.108463025,"Farm-gate emissions"
+"5","Crop Residues","Low income",2020,0.007357089,"Farm-gate emissions"
+"6","Crop Residues","High income",2020,0.050667761,"Farm-gate emissions"
+"7","Drained organic soils","Middle income",1990,0.996628612,"Farm-gate emissions"
+"8","Drained organic soils","High income",2020,0.631785292,"Farm-gate emissions"
+"9","Drained organic soils","Middle income",2020,1.106757893,"Farm-gate emissions"
+"10","Drained organic soils","Low income",1990,0.077526485,"Farm-gate emissions"
+"11","Drained organic soils","Low income",2020,0.098348606,"Farm-gate emissions"
+"12","Drained organic soils","High income",1990,0.576583968,"Farm-gate emissions"
+"13","Enteric Fermentation","Low income",2020,0.364779641,"Farm-gate emissions"
+"14","Enteric Fermentation","High income",1990,0.63061976,"Farm-gate emissions"
+"15","Enteric Fermentation","Low income",1990,0.121304367,"Farm-gate emissions"
+"16","Enteric Fermentation","Middle income",2020,2.116691078,"Farm-gate emissions"
+"17","Enteric Fermentation","High income",2020,0.528021771,"Farm-gate emissions"
+"18","Enteric Fermentation","Middle income",1990,1.862872919,"Farm-gate emissions"
+"19","Manure","Low income",2020,0.186043588,"Farm-gate emissions"
+"20","Manure","High income",2020,0.313877253,"Farm-gate emissions"
+"21","Manure","Middle income",1990,0.782817428,"Farm-gate emissions"
+"22","Manure","Middle income",2020,0.970683224,"Farm-gate emissions"
+"23","Manure","High income",1990,0.345812593,"Farm-gate emissions"
+"24","Manure","Low income",1990,0.061927271,"Farm-gate emissions"
+"25","Rice Cultivation","High income",1990,0.040397403,"Farm-gate emissions"
+"26","Rice Cultivation","Middle income",2020,0.776410918,"Farm-gate emissions"
+"27","Rice Cultivation","Low income",2020,0.024969214,"Farm-gate emissions"
+"28","Rice Cultivation","Middle income",1990,0.731216805,"Farm-gate emissions"
+"29","Rice Cultivation","Low income",1990,0.013233556,"Farm-gate emissions"
+"30","Rice Cultivation","High income",2020,0.033123737,"Farm-gate emissions"
+"31","Savanna fires","Middle income",1990,0.099139756,"Farm-gate emissions"
+"32","Savanna fires","Low income",2020,0.100857265,"Farm-gate emissions"
+"33","Savanna fires","High income",2020,0.015643379,"Farm-gate emissions"
+"34","Savanna fires","Low income",1990,0.085517571,"Farm-gate emissions"
+"35","Savanna fires","High income",1990,0.056707455,"Farm-gate emissions"
+"36","Savanna fires","Middle income",2020,0.092511852,"Farm-gate emissions"
+"37","Synthetic Fertilizers","Low income",2020,0.006951424,"Farm-gate emissions"
+"38","Synthetic Fertilizers","Low income",1990,0.005834791,"Farm-gate emissions"
+"39","Synthetic Fertilizers","High income",1990,0.145070522,"Farm-gate emissions"
+"40","Synthetic Fertilizers","High income",2020,0.157442023,"Farm-gate emissions"
+"41","Synthetic Fertilizers","Middle income",1990,0.37836273,"Farm-gate emissions"
+"42","Synthetic Fertilizers","Middle income",2020,0.602751245,"Farm-gate emissions"
+"43","Burning biomass","High income",2020,0.023755534,NA
+"44","Burning biomass","High income",1990,0.015298369,NA
+"45","Burning biomass","Low income",2020,0.09946354,NA
+"46","Burning biomass","Middle income",2020,0.175971571,NA
+"47","Burning biomass","Low income",1990,0.097037796,NA
+"48","Burning biomass","Middle income",1990,0.387825809,NA
+"49","Net Forest conversion","Middle income",2020,1.851209288,NA
+"50","Net Forest conversion","Low income",2020,0.845734013,NA
+"51","Net Forest conversion","Middle income",1990,3.234461144,NA
+"52","Net Forest conversion","Low income",1990,0.576440636,NA
+"53","Net Forest conversion","High income",1990,0.291771314,NA
+"54","Net Forest conversion","High income",2020,0.205469634,NA
+"55","Fertilizers Manufacturing","Low income",1990,0.000681553,NA
+"56","Fertilizers Manufacturing","Low income",2020,0.00025961,NA
+"57","Fertilizers Manufacturing","Middle income",1990,0.158297139,NA
+"58","Fertilizers Manufacturing","Middle income",2020,0.396254175,NA
+"59","Food Household Consumption","Low income",1990,0.001254622,NA
+"60","Food Household Consumption","Low income",2020,0.005801545,NA
+"61","Food Household Consumption","Middle income",1990,0.503067308,NA
+"62","Food Household Consumption","Middle income",2020,1.483678645,NA
+"63","Food Packaging","Low income",1990,0.00160132,NA
+"64","Food Packaging","Middle income",1990,0.064856117,NA
+"65","Food Packaging","Low income",2020,0.000973404,NA
+"66","Food Packaging","Middle income",2020,0.27701981,NA
+"67","Food Processing","Low income",1990,0.015037949,NA
+"68","Food Processing","Low income",2020,0.004540175,NA
+"69","Food Processing","Middle income",1990,0.185714529,NA
+"70","Food Processing","Middle income",2020,0.177873762,NA
+"71","Food Retail","Low income",1990,0.000240649,NA
+"72","Food Retail","Low income",2020,0.005517343,NA
+"73","Food Retail","Middle income",1990,0.019175122,NA
+"74","Food Retail","Middle income",2020,0.302561627,NA
+"75","Food systems waste disposal","Low income",1990,0.035171726,NA
+"76","Food systems waste disposal","Low income",2020,0.06343344,NA
+"77","Food systems waste disposal","Middle income",2020,1.204459828,NA
+"78","Food systems waste disposal","Middle income",1990,0.900820922,NA
+"79","Food Transport","Low income",1990,0.002411787,NA
+"80","Food Transport","Low income",2020,0.005711696,NA
+"81","Food Transport","Middle income",1990,0.085280114,NA
+"82","Food Transport","Middle income",2020,0.295548069,NA
+"83","Fertilizers Manufacturing","High income",1990,0.047082553,NA
+"84","Fertilizers Manufacturing","High income",2020,0.123965523,NA
+"85","Food Household Consumption","High income",1990,0.171561007,NA
+"86","Food Household Consumption","High income",2020,0.23311377,NA
+"87","Food Packaging","High income",2020,0.127876324,NA
+"88","Food Packaging","High income",1990,0.126303942,NA
+"89","Food Processing","High income",1990,0.212529166,NA
+"90","Food Processing","High income",2020,0.289678581,NA
+"91","Food Retail","High income",1990,0.133152963,NA
+"92","Food Retail","High income",2020,0.59894595,NA
+"93","Food systems waste disposal","High income",1990,0.190653183,NA
+"94","Food systems waste disposal","High income",2020,0.206516497,NA
+"95","Food Transport","High income",1990,0.177578536,NA
+"96","Food Transport","High income",2020,0.225820373,NA
+"97","On-farm electricity use","High income",1990,0.0590696,NA
+"98","On-farm electricity use","High income",1990,0.0590696,NA
+"99","On-farm electricity use","High income",2020,0.078808958,NA
+"100","On-farm electricity use","High income",2020,0.078808958,NA
+"101","On-farm electricity use","Middle income",1990,0.14679255,NA
+"102","On-farm electricity use","Middle income",1990,0.14679255,NA
+"103","On-farm electricity use","Middle income",2020,0.52590156,NA
+"104","On-farm electricity use","Middle income",2020,0.52590156,NA
+"105","On-farm electricity use","Low income",2020,0.000636636,NA
+"106","On-farm electricity use","Low income",2020,0.000636636,NA
+"107","On-farm electricity use","Low income",1990,0.000393507,NA
+"108","On-farm electricity use","Low income",1990,0.000393507,NA
