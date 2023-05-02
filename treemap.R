@@ -59,6 +59,7 @@ title <- c("Non-farm emissions",as.character(meanEmissions_byCat$Item))
   #c("Total",rep("Farm-gate emissions",8),rep("Land-use change",2),rep("Pre- and post-production",7))
 value <- data
 data <- data.frame(group,subgroup,title,value)
+#write.csv(data,'C:/Users/wb383351/OneDrive - WBG/Documents/R-projects/DARLViz/data/treemapdata.csv',row.names=FALSE)
 pal <- c('#999999','#fff5f0','#fee0d2','#fcbba1','#fc9272',
         '#fb6a4a','#ef3b2c','#cb181d','#99000d','#a1d99b','#31a354',
         '#eff3ff','#c6dbef','#9ecae1','#6baed6','#4292c6','#2171b5','#084594')
