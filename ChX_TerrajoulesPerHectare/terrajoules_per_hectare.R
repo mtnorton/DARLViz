@@ -9,9 +9,9 @@ library(tidyr)
 library(readr)
 
 
-setwd('C:/Users/wb383351/WBG/Ilyun Koh - data')
-
-df <- read_csv('./request_authors/alex_fao/energy_use9020.csv') %>% filter(Year>=1990)
+setwd('C:/Users/wb383351/WBG/DARL Flagship ASA - WB Group - Norton, Michael/DARLViz/ChX_TerrajoulesPerHectare')
+  
+df <- read_csv('./energy_use9020.csv') %>% filter(Year>=1990)
 
 countryInc<-read_xlsx("./wb_countries/country_income.xlsx", sheet="List of economies")
 countryInc <- countryInc %>% rename(Area=Economy)
@@ -19,7 +19,7 @@ countryInc <- countryInc %>% mutate(Area=ifelse(Area=="China","China, mainland",
 countryInc <- countryInc %>% mutate(Area=ifelse(Area=="Congo, Rep.","Congo",Area))
 countryInc <- countryInc %>% mutate(Area=ifelse(Area=="Congo, Dem. Rep.","Democratic Republic of the Congo",Area))
 countryInc <- countryInc %>% mutate(Area=ifelse(Area=="Czech Republic","Czechia",Area))
-countryInc <- countryInc %>% mutate(Area=ifelse(Area=="Côte d’Ivoire","C\xf4te d'Ivoire",Area))
+countryInc <- countryInc %>% mutate(Area=ifelse(Area=="Côte d’Ivoire","C/xf4te d'Ivoire",Area))
 countryInc <- countryInc %>% mutate(Area=ifelse(Area=="Korea, Dem. People's Rep","Democratic People's Republic of Korea",Area))
 countryInc <- countryInc %>% mutate(Area=ifelse(Area=="Korea, Rep.","Republic of Korea",Area))
 countryInc <- countryInc %>% mutate(Area=ifelse(Area=="Egypt, Arab Rep.","Egypt",Area))
@@ -48,7 +48,7 @@ totalE$`Income group` <- gsub('Upper middle income', 'Middle income', totalE$`In
 
 landData <- read_csv('C:/Users/wb383351/WBG/DARL Flagship ASA - WB Group - Norton, Michael/data/FAOSTAT_data_en_3-24-2023.csv')
 landData <- landData %>% filter(Item=="Agriculture") %>% dplyr::select(Area,Year,Value)
-#landData <- landData %>% mutate(Area=ifelse(Area=="Türkiye","T\xfcrkiye",Area))
+#landData <- landData %>% mutate(Area=ifelse(Area=="Türkiye","T/xfcrkiye",Area))
 
 totalE <- left_join(totalE,landData,by=c('Area','Year'))
 
