@@ -1,0 +1,19 @@
+"","Income","variable","value"
+"1","High income","totag_re_feas",132.96109442
+"2","Low income","totag_re_feas",16.605802186
+"3","Middle income","totag_re_feas",431.605927456
+"4","High income","totag_sc_feas",1091.722322989
+"5","Low income","totag_sc_feas",327.905815307
+"6","Middle income","totag_sc_feas",3312.826246988
+"7","High income","totdem_feas",445.324517183
+"8","Low income","totdem_feas",69.439932023
+"9","Middle income","totdem_feas",1361.205997125
+"10","High income","formgmts_feas",223.2272452
+"11","Low income","formgmts_feas",62.098365775
+"12","Middle income","formgmts_feas",587.324190872
+"13","High income","defors_feas",35.043755356
+"14","Low income","defors_feas",328.154781553
+"15","Middle income","defors_feas",1378.753335917
+"16","High income","ars_feas",288.254881316
+"17","Low income","ars_feas",52.70720974
+"18","Middle income","ars_feas",632.367410326

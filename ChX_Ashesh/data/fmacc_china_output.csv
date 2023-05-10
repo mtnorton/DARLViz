@@ -1,0 +1,17 @@
+"","Mitigation","Mitigation_old","Cost effectiveness (in 2020) (¥ tCO2-eq, 2010 price)","Cost[USD/tco2e]","width","GHG savings[Mt Co2e]","GHG savings[Mt Co2e]_half"
+"1","Animal breeding","L2",-3393,-686.570157,4.27,2.895,5.03
+"2","Fertilizer best management practices (wheat & maize) – right time and right placement","C2",-3085,-624.246665,11.38,10.72,16.41
+"3","Ionophores addition to the diet","L3",-2033,-411.375517,1.95,17.385,18.36
+"4","Fertilizer best management practices (cash crops) – right product, right time and right placement","C4",-1883,-381.023167,21.86,29.29,40.22
+"5","Conservation tillage for upland crops","C7",-1692,-342.374508,1.46,40.95,41.68
+"6","Fertilizer best management practices – right rate","C1",-435,-88.021815,30.65,57.005,72.33
+"7","Tea saponins addition to the diet","L4",-56,-11.331544,23.18,83.92,95.51
+"8","Anaerobic digestion of manure","L1",-32,-6.475168,58.66,124.84,154.17
+"9","Reduction of stocking rate – medium grazing intensity","L8",64,12.950336,40.77,174.555,194.94
+"10","Enhanced-efficiency fertilizers","C5",231,46.742619,15.54,202.71,210.48
+"11","Grazing prohibition for 35% of grazed grasslands","L7",281,56.860069,60.78,240.87,271.26
+"12","Reduction of stocking rate – light grazing intensity","L9",322,65.156378,50.72,296.62,321.98
+"13","Fertilizer and water best management in rice paddies","C3",347,70.215103,23.98,333.97,345.96
+"14","More efficient recycling of organic manure","C6",1576,318.902024,40.19,366.055,386.15
+"15","Lipid addition to the diet","L6",1982,401.055718,21.49,396.895,407.64
+"16","Straw addition in upland crops","C8",2209,446.988941,0.95,408.115,408.59

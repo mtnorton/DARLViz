@@ -7,11 +7,9 @@ library(ggplot2)
 library(tidyr)
 library(readr)
 
-setwd('C:/Users/wb383351/WBG/DARL Flagship ASA - WB Group - Norton, Michael/data')
+setwd('C:/Users/wb383351/WBG/DARL Flagship ASA - WB Group - Norton, Michael/DARLViz/Ch2_PercapitaByRegion/')
 popdata <- read_csv('FAOSTAT_population.csv')
-
-setwd('C:/Users/wb383351/WBG/Ilyun Koh - data')
-f_raw<-read_csv("./fao/Emissions_Totals/Emissions_Totals_E_All_Data_NOFLAG2.csv")
+f_raw <- read_csv("./fao/Emissions_Totals/Emissions_Totals_E_All_Data_NOFLAG2.csv")
 
 cats <- c('Crop Residues','Drained organic soils','Enteric Fermentation','Manure Management','Rice Cultivation',
           'Savanna fires','Synthetic Fertilizers','On-farm electricity use','Burning - Crop residues','Net Forest conversion',
