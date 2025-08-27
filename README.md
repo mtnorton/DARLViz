@@ -5,8 +5,7 @@ This repository contains the R code used to produce visualizations for the World
 ## 📘 About the Publication
 *"Recipe for a Livable Planet"* is a World Bank report that explores strategies and pathways for achieving sustainable food systems while addressing the challenges of climate change, nutrition, and resilience. The report emphasizes evidence-based policy recommendations and leverages data-driven insights, including the visualizations developed here.
 
-Full report: [World Bank – Recipe for a Livable Planet](https://www.worldbank.org/en/news/report/2025/01/23/recipe-for-a-livable-planet)  
-(Note: update link if a permanent report page is available.)
+Full report: https://www.worldbank.org/en/topic/agriculture/publication/recipe-for-livable-planet
 
 ## 📊 About This Repository
 The code in this repository was developed to support key figures, charts, and data visualizations featured in the report. The scripts are written in **R** and focus on:
